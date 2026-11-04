@@ -1,4 +1,6 @@
 # auto_fs_os_x
+
+[![Last commit](https://img.shields.io/github/last-commit/masikh/auto_fs_os_x)](https://github.com/masikh/auto_fs_os_x/commits) [![Repo size](https://img.shields.io/github/repo-size/masikh/auto_fs_os_x)](https://github.com/masikh/auto_fs_os_x) [![Stars](https://img.shields.io/github/stars/masikh/auto_fs_os_x?style=flat)](https://github.com/masikh/auto_fs_os_x/stargazers)
 autofs on OSX (year: 2025)
 
 ## Create autofs 'base directory'
